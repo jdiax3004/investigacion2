@@ -3,12 +3,13 @@ Investigación II - Diseño Web - REST API & MERN
 
 Importante recalcar que la base de datos que utiliza se llama Lab12 y que el servidor corre en el puerto 5001 ya que estaba utilizando el 5000. Otro dato es que necesita clientes para que las busetas funcionen idealmente
 
-## Creación de la base de datos
+## Instalación de dependencias
 
 ```javascript
 npm install
 npm start
 ```
+## Creación de la base de datos
 
 ```javascript
 use lab12
